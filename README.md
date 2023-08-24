@@ -1,8 +1,7 @@
 # data_analysis
 
-AusEnergy Energy demand Analysis 2023
+Camden Borough Council Analysis 2023
 
-Energy demand analysis processed by me for AusEnergy this year.
-Contains total of demand in MWh and revenue with analysis how weather(such as Solar Exposure, temperature and rainfall) affects both demand and revenue for the company.
+Helping out the council in understanding they needs in terms of preparing printed materials such as Camden Trees Walktrough Brochures for people passionate about the trees.
 
-Presentation of provided spreadsheet with all the charts and tables wth my insights of what does they mean.
+Dataset combined from 3 different sources into one Jupyter notebook.
